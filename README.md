@@ -1,2 +1,2 @@
 # new-repo-practice
-for repository practice in intro to programming class
+for repository practice in intro to programming class a
